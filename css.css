@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+    margin: 0;
+    background-color: #ceb8b8;
+}
+
+#clock {
+    font-size: 48px;
+    color: #440404;
+    padding: 20px;
+    border-radius: 10px;
+}
